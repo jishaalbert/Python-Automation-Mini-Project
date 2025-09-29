@@ -36,7 +36,7 @@ How to Use
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/Python-Automation-Mini-Project.git
+git clone https://github.com/jishaalbert/Python-Automation-Mini-Project.git
 
 
 Navigate to the project folder:
